@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "spacex-website",
+			"path": "../spacex-website"
+		},
+		{
+			"name": "JosphineG",
+			"path": "JosphineG"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Josphine"
+	}
+}
